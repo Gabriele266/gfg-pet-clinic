@@ -1,6 +1,4 @@
-package com.revodigital.gfgpetclinic.domain
-
-import java.time.LocalDate
+package com.revodigital.data
 
 class Vet(
     firstName: String,

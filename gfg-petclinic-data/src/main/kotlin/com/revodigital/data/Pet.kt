@@ -1,4 +1,4 @@
-package com.revodigital.gfgpetclinic.domain
+package com.revodigital.data
 
 import java.time.LocalDate
 

@@ -1,11 +1,11 @@
-package com.revodigital.gfgpetclinic
+package com.revodigital.web
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class GfgPetClinicApplication
+class GfgApplication
 
 fun main(args: Array<String>) {
-    runApplication<GfgPetClinicApplication>(*args)
+    runApplication<GfgApplication>(*args)
 }
